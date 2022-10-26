@@ -1,0 +1,116 @@
+body{
+	background-image: linear-gradient( 109.6deg,  rgba(61,245,167,1) 11.2%, rgba(9,111,224,1) 91.1% );
+	background-repeat: no-repeat;
+	height: 100vh;
+}
+
+.regLogo h1{
+	font-family: 'Rubik', sans-serif;
+	text-align: center;
+	font-size: 250%;
+	font-weight: bold;
+	margin-top: 4%;
+}
+
+.regLogo img{
+	width: 12%;
+}
+
+.regLogo p{
+	font-family: 'Rubik', sans-serif;
+	text-align: center;
+
+}
+
+.myLogo h1{
+	font-family: 'Rubik', sans-serif;
+	text-align: center;
+	font-size: 250%;
+	font-weight: bold;
+	margin-top: 8%;
+}
+
+.myLogo p{
+	font-family: 'Rubik', sans-serif;
+	text-align: center;
+
+}
+
+.myLogo img{
+	width: 12%;
+}
+
+
+.loginForm{
+	font-family: 'Rubik', sans-serif;
+	margin-top: 2%;
+	margin-left: 25%;
+	margin-right: 25%;
+
+}
+
+.loginForm h2{
+	text-align: center;
+	padding: 2%;
+}
+
+.loginForm a{
+
+	color: #000000;
+}
+
+.loginForm a, p{
+
+	color: #000000;
+	text-decoration: none;
+}
+
+.loginForm a:hover{
+	color: #EEEEEE;
+}
+
+.loginForm form{
+	padding: 3%;
+}
+
+.loginForm input{
+   display: block;
+   margin : 0 auto;
+}
+
+
+
+
+.loginForm .mybtn{
+	float: right;
+}
+
+
+
+.loginForm .bcButton{
+	float: left;
+}
+
+.loginForm .forgot{
+	margin-top: 1%;
+	float: left;
+
+}
+
+.myFooter{
+	font-family: 'Rubik', sans-serif;
+	margin-top: 10%;
+	color: #181818;
+	font-weight: bold;
+}
+
+.loginForm .fa{
+	font-family: 'Rubik', sans-serif;
+}
+
+.myFooter hr{
+
+	background-color: #181818;
+
+}
+

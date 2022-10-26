@@ -1,0 +1,43 @@
+body{
+	font-family: 'Rubik', sans-serif;
+}
+
+nav{
+	font-family: 'Rubik', sans-serif;
+}
+
+table{
+	text-align: center;
+}
+
+.myBox{
+	text-align: center;
+	margin: 5%;
+	align-items: center;
+	justify-content: center;
+}
+
+.myBox .card{
+	padding: 2%;
+	margin: 5%;
+}
+
+
+.myInput{
+	font-family: 'Rubik', sans-serif;
+	margin: 5%;
+	padding: 5%;
+	border: 2px solid #ffffff;
+	background-color: #ffffff;
+	border-radius: 10px;
+	height: 400px;
+}
+
+.myInput h1{
+	text-align: center;
+	font-weight: bold;
+}
+
+.mybtn{
+	float: right;
+}
